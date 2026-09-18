@@ -1,0 +1,7 @@
+{
+    "host": "127.0.0.1",
+    "port": 5000,
+    "database": "messaging.db",
+    "max_file_size": 10485760,
+    "buffer_size": 4096
+}
